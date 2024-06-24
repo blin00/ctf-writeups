@@ -1,0 +1,7 @@
+# build by running `yosys synth.ys`
+read -vlog2k adder.v
+synth -top circuit
+abc -g NAND -dff
+check
+write_json adder.json
+clean
