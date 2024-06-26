@@ -1,5 +1,5 @@
 # phase\_coffee\_3 (the hard way)
-pwn // Sheepiroo // 2024 jellyCTF
+pwn // Sheepiroo // 2024 jellyCTF // 🩸
 
 ## Setup
 A pwnable that includes code to print the flag, but what if we want pop a shell instead?
